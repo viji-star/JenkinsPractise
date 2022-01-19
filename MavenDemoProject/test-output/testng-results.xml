@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141" started-at="2022-01-19T06:50:48Z" finished-at="2022-01-19T06:50:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141" started-at="2022-01-19T06:50:48Z" finished-at="2022-01-19T06:50:48Z">
+      <class name="MavenPractise.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:MavenPractise.DemoTest@730495]" name="div" duration-ms="47" started-at="2022-01-19T12:20:48Z" finished-at="2022-01-19T12:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:MavenPractise.DemoTest@730495]" name="multi" duration-ms="0" started-at="2022-01-19T12:20:48Z" finished-at="2022-01-19T12:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:MavenPractise.DemoTest@730495]" name="sub" duration-ms="0" started-at="2022-01-19T12:20:48Z" finished-at="2022-01-19T12:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:MavenPractise.DemoTest@730495]" name="sum" duration-ms="16" started-at="2022-01-19T12:20:48Z" finished-at="2022-01-19T12:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- MavenPractise.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
