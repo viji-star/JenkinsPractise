@@ -39,6 +39,6 @@ public class DemoTest {
 		int b=20;
 		Assert.assertEquals(200, b*a);
 		System.out.println("MULTI SUCCESS");
-		System.out.println("MULTI SUCCESS");
+		
 	}
 }
