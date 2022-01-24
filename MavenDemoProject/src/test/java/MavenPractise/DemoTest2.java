@@ -28,7 +28,7 @@ public class DemoTest2 {
 	{
 		int a=10;
 		int b=20;
-		Assert.assertEquals(20, b/a);
+		Assert.assertEquals(2, b/a);
 		System.out.println("DIV SUCCESS");
 	}
 	

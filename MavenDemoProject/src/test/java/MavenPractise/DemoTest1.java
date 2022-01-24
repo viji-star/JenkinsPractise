@@ -11,7 +11,7 @@ public class DemoTest1 {
 	{
 		int a=10;
 		int b=20;
-		Assert.assertEquals(3, a+b);
+		Assert.assertEquals(30, a+b);
 		System.out.println("SUM SUCCESS");
 	}
 	@Test
